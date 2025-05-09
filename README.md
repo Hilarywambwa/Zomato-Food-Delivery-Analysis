@@ -122,5 +122,6 @@ Uttarakhand, a rural state, consistenty shows high late deliveries across all ty
 Here is a snapshot of the dashboard:https://public.tableau.com/views/ZomatoDeliveryAnalysis_17467906312420/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
-![image](https://github.com/user-attachments/assets/6828078f-bafc-4bb2-828f-2fe4180fef6b)
+![image](https://github.com/user-attachments/assets/27d5faef-796a-4585-b541-0bbe93a65dd6)
+
 
