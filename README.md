@@ -90,23 +90,23 @@ The vehicle type filter allows users to compare performance across Motorcycle, S
 
 ## Insights
 
-- **Weather Impact: Cloudy and Fog conditions generally have more than 20% late deliveries across all vehicles while Sunny conditions have the least at less than 6%.
+- Weather Impact: Cloudy and Fog conditions generally have more than 20% late deliveries across all vehicles while Sunny conditions have the least at less than 6%.
 For cloudy conditions a scooter would be the best option while for fog conditions, the electric scooter is the preffered vehicle
 
-- **Traffic Conditions: Generally Jam attracts higher percentage of late deliveries. Intrestingly, medium traffic density is second to Jam. 
+- Traffic Conditions: Generally Jam attracts higher percentage of late deliveries. Intrestingly, medium traffic density is second to Jam. 
 The electric scooter has low late percentage rates 24% during Jams compared to scooters and motorcycles with 25% and 39% respectively.
 
-- **Order Types: For a motorcycle, the percentages are almost at a flat rate with all orders having approximately 20% late percentages.
+- Order Types: For a motorcycle, the percentages are almost at a flat rate with all orders having approximately 20% late percentages.
 Scooter had the highest and lowest rates for meals(13%) and snacks(11%) respectively while Electric Scooter had the highest and lowest rates as snacks(13%) and buffet(11%)
 
-- **Time Patterns: Morning deliveries had the lowest delivery times which increased gradually peaking at evening and reducing at night. Friday evenings were the busiest for all three types of vehicles.
+- Time Patterns: Morning deliveries had the lowest delivery times which increased gradually peaking at evening and reducing at night. Friday evenings were the busiest for all three types of vehicles.
 
-- **Urbanization: Metropolitan cities have higher late delivery rates due to traffic and distance, with Electric Scooters and scooters showing better performance in Semi Urban areas with 100% ontime delivery.
+- Urbanization: Metropolitan cities have higher late delivery rates due to traffic and distance, with Electric Scooters and scooters showing better performance in Semi Urban areas with 100% ontime delivery.
 
-- **Geographic Trends: States with dense urban centers (e.g., Maharashtra, Gujarat) show lower late delivery density, with Scooters and electric scooters outperforming motorcycle in urban states.
+- Geographic Trends: States with dense urban centers (e.g., Maharashtra, Gujarat) show lower late delivery density, with Scooters and electric scooters outperforming motorcycle in urban states.
 Uttarakhand, a rural state, consistenty shows high late deliveries across all types of vehicles probably due to poor road network.
 
-- **Distance Zones: Deliveries over 20 km have the highest late percentages, with Scooters perfoming better than other vehicles.
+- Distance Zones: Deliveries over 20 km have the highest late percentages, with Scooters perfoming better than other vehicles.
 
 
 
@@ -116,5 +116,5 @@ Uttarakhand, a rural state, consistenty shows high late deliveries across all ty
 - **GitHub**: Clone this repository to access the SQL scripts and adapt them for your own analysis.
 
 ## Contact
-**Email: wambwahilary@gmail.com
-**LinkedIn: https://www.linkedin.com/in/hilary-wambwa-288610355/# Zomato-Food-Delivery-Analysis
+- Email: wambwahilary@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hilary-wambwa-288610355/
