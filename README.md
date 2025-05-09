@@ -10,7 +10,7 @@ The dataset is available on Kaggle: [Zomato Delivery Operations Analytics Datase
   - `data_cleaning.sql`: SQL queries for cleaning the Zomato dataset, including removing duplicates, standardizing data, handling null values, and correcting invalid entries.
   - `data_analysis.sql`: SQL queries for analyzing delivery performance, defining late deliveries, and generating insights for visualizations.
 - **Tableau Dashboard**: 
-  - A Tableau workbook (not included in the repository but described below) containing the interactive visualizations.
+  - A Tableau workbook containing the interactive visualizations : https://public.tableau.com/views/ZomatoDeliveryAnalysis_17467906312420/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - **README.md**: This file, providing an overview of the project, setup instructions, and analysis details.
 
 ## Dataset Description
@@ -118,5 +118,9 @@ Uttarakhand, a rural state, consistenty shows high late deliveries across all ty
 ## Contact
 - Email: wambwahilary@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hilary-wambwa-288610355/
+
+Here is a snapshot of the dashboard:https://public.tableau.com/views/ZomatoDeliveryAnalysis_17467906312420/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 ![image](https://github.com/user-attachments/assets/6828078f-bafc-4bb2-828f-2fe4180fef6b)
 
