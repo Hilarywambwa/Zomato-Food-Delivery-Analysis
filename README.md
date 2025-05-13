@@ -113,7 +113,7 @@ Uttarakhand, a rural state, consistenty shows high late deliveries across all ty
 ## Usage
 - **SQL Scripts**: Execute the scripts in a SQL client (e.g., pgAdmin, DBeaver) to clean and analyze the data.
 - **Tableau Dashboard**: Open the Tableau workbook to explore the interactive visualizations. Use the vehicle type filter to compare Motorcycle, Scooter, and Electric Scooter performance.
-- **GitHub**: Clone this repository to access the SQL scripts and adapt them for your own analysis.
+
 
 ## Contact
 - Email: wambwahilary@gmail.com
